@@ -7,11 +7,11 @@ The Softboiled Glitch in Pokémon Diamond, Pearl, and Platinum involves using So
 
 While overhealing a Pokémon, sometimes the game will cause an HP overflow, entering you into a seemingly endless heal loop that prevents you from performing any inputs.
 
-![CasualPokePlayer: so say you overflowed your HP by 1, it will try to heal 65535 HP. it will eventually heal it (in around 73 minutes)](https://publish-01.obsidian.md/access/7487b06ae9fdb09362ba4a44119d13a7/overflow.png)
+![Screenshot of CasualPokePlayer posting in the Glitch City Research Institute Discord](https://publish-01.obsidian.md/access/7487b06ae9fdb09362ba4a44119d13a7/overflow.png)
 > CasualPokePlayer: so say you overflowed your HP by 1, it will try to heal 65535 HP. it will eventually heal it (in around 73 minutes)
 
 RETIRE found the cause of this glitch:
-![RETIRE: Except they did break. The issue is they had a switch case inside a switch case. Case 0 handles the initial selection. If you press A, it then has another switch case to check the state of the pokémon, and it breaks out of that one, but not the outer switch case so then it also ends up going through the check for holding a different button to select a different pokémon. so this is frameperfect](https://publish-01.obsidian.md/access/7487b06ae9fdb09362ba4a44119d13a7/softboiled-explanation.png)
+![Screenshot of RETIRE posting in the Glitch City Research Institute Discord](https://publish-01.obsidian.md/access/7487b06ae9fdb09362ba4a44119d13a7/softboiled-explanation.png)
 > RETIRE: Except they did break. The issue is they had a switch case inside a switch case. Case 0 handles the initial selection. If you press A, it then has another switch case to check the state of the pokémon, and it breaks out of that one, but not the outer switch case so then it also ends up going through the check for holding a different button to select a different pokémon. so this is frameperfect
 
 Thanks to [RETIRE](https://twitter.com/RETIREglitch) and CasualPokePlayer for your investigations.
