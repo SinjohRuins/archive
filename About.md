@@ -1,0 +1,15 @@
+My name is Matt, but online I go by Etchy! I'm a Pokémon speedrunner and TCG player. Recently I've also started making YouTube videos researching undocumented or unconfirmed topics in Pokémon. These topics are mostly related to the Generation 4 Pokémon games, hence the title of the website!
+
+During my research, I became increasingly frustrated with how bad information preservation has been with these games. In the mid-late 2000s, we relied heavily on forums and services that no longer exist, leading to tons of information being lost forever. One of the worst examples is everybody using Photobucket to post images online; all of those images are gone! I also used to post frequently on Pokémon fan forums at the time, and all of those posts are gone too. Fortunately, some stuff is backed up thanks to sites like archive.org, but not everything.
+
+Additionally, the Discord-ification of online communities, along with search engines getting worse and worse, makes it harder than ever to find accurate information online. Websites like Bulbapedia can't cite information from a Discord server, and tons of stuff that does get figured out in Discord is impossible to find if you're not in that server.
+
+My goal with Sinjoh Ruins is to have a searchable source of information that websites can easily cite. YouTube videos are not great as citable sources of information; plus my videos have ads since this is effectively my full-time job (despite making very little lol). I wanted to make sure the key information that I research is accessible without ads or paywalling. Everything I post here will be personally tested by myself, and I will share information from Discord servers that has been vetted as well. The accompanying videos will explain any research done, so this website will just have my findings.
+
+The topics on this website will mostly be ones related to my YouTube videos, but I'll add other topics as I see fit. There's a lot of stuff I come across that isn't video-worthy, but should be documented somewhere on the internet. This website also gives me the opportunity to add more details to topics that are learned after a video is released.
+
+If you're asking, "Why not just add everything you research to Bulbapedia?" the answer is that I don't think everything I look into should necessarily be there, and I want to present information in the ways that I see fit. Extra sources of information are good for future-proofing and archiving!
+
+Since videos are my main priority, information won't immediately be added here when one comes out. I will add to this site when I have time between videos, ideally not more than a few days after a video comes out.
+
+If you want to support myself and Sinjoh Ruins, please consider subscribing to my [YouTube channel](https://www.youtube.com/etch) and checking out my [Patreon](https://patreon.com/etchy). If there are any issues you can reach out to me on Discord @EtchyOk or on [Twitter](https://www.twitter.com/etchyok)/[Bluesky](https://bsky.app/profile/etchy.bsky.social).
