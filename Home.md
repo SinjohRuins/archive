@@ -1,10 +1,11 @@
 Welcome to Sinjoh Ruins! This is a Pokémon research website managed by Etchy. For more information, please read the [[About]] page.
-## Socials
+## Links
 [Patreon](https://www.patreon.com/c/Etchy)
 [YouTube](https://youtube.com/etch)
 [Twitch](https://twitch.tv/etchy)
 [Bluesky](https://etchy.bsky.social)
 [Twitter](https://twitter.com/etchyok)
+[Sinjoh Ruins Archive](https://github.com/SinjohRuins/archive)
 ## Articles
 [[About]]
 [[Supporters]]
