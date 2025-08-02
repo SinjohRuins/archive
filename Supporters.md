@@ -8,6 +8,8 @@ Special thanks to the following [Patreon](https://patreon.com/etchy) supporters:
 # FuzzyHuggs
 
 # PastelPunk
+# Berter
+# psf
 
 ![[ETCHY_MinunHeart_OG.png]]
 

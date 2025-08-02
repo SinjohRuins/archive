@@ -22,5 +22,7 @@ Welcome to Sinjoh Ruins! This is a Pokémon research website managed by Etchy. F
 [[Unused Platinum Rival Battle]]
 [[Weather Dates]]
 [[Wi-Fi Plaza]]
+### Generation 6
+[[Fishing]]
 ### Generation 7
 [[Let's Go Mount Skip Glitch]]
