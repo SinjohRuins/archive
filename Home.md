@@ -1,4 +1,4 @@
-Welcome to Sinjoh Ruins! This is a Pokémon research website managed by Etchy. For more information, please read the [[About]] page.
+ Welcome to Sinjoh Ruins! This is a Pokémon research website managed by Etchy. For more information, please read the [[About]] page.
 ## Links
 [Patreon](https://www.patreon.com/c/Etchy)
 [YouTube](https://youtube.com/etch)

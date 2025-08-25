@@ -5,6 +5,16 @@ The base fishing encounter rate in Pokémon X, Y, Omega Ruby, and Alpha Sapphire
 
 Several modifiers can be applied to the base fishing encounter rate. If the console's time is currently set to Morning (6AM - 10:59AM) or Evening (6PM - 8:59PM), then 20 is added to the fishing encounter rate. If the fishing bob lands near a non-surfable tile, meaning a tile that you cannot surf on under any circumstances, then you receive an additional increase of 20 for each of these surrounding tiles. This can stack three times, one for each cardinal direction from the bob ignoring the direction that faces the player.
 
+Below are some examples for tiles that provide this bonus if your fishing bob is adjacent to them:
+
+| Land                         | ![[land.png]]   | ![[land2.png]]   |
+| ---------------------------- | --------------- | ---------------- |
+| Walkable tiles next to water | ![[puddle.png]] | ![[puddle2.png]] |
+| Rocks                        | ![[rock.png]]   | ![[rock2.png]]   |
+| Walls                        | ![[wall.png]]   | ![[wall2.png]]   |
+| Other                        | ![[bridge.png]] |                  |
+
+
 If the lead Pokémon has the Suction Cups or Sticky Hold ability, the base rate is multiplied by 2. If the fishing encounter rate exceeds 100, it is set to 100 and you are guaranteed a fishing encounter.
 # Chain Fishing
 Chain Fishing is a mechanic unique to the Generation 6 Pokémon games. By landing fishing encounters consecutively, you can drastically increase your odds of encountering a shiny Pokémon. Every time you land a fishing encounter, your chain increases by one. Your chain is reset to zero if you fail a fishing attempt. Failing a fishing attempt means you reeled it in too slowly or quickly, or nothing bit.
