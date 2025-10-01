@@ -10,6 +10,7 @@
 [[About]]
 [[Supporters]]
 ### Generation 4
+[[ACE Scripts]]
 [[Battle Hall Fans]]
 [[Battle Tower Black Screen Glitch]]
 [[DPPt Encounter Rate]]
@@ -19,6 +20,7 @@
 [[Egg Hatching]]
 [[Japanese HGSS Slots]]
 [[Time Travel Penalty]]
+[[U-Turn Glitches]]
 [[Unused Platinum Rival Battle]]
 [[Weather Dates]]
 [[Wi-Fi Plaza]]
