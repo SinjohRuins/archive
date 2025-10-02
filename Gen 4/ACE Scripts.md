@@ -6,7 +6,7 @@ Diamond and Pearl Scripts: https://github.com/SinjohRuins/archive/blob/master/AC
 
 Platinum Scripts: https://github.com/SinjohRuins/archive/blob/master/ACE%20Scripts/PlatScripts.json
 
-Click "Download raw file" in the top right of the appropriate file, then upload them into RETIRE's script converter website: https://app.jorikdevreese.com/script_conversion/index.html
+Click "Download raw file" in the top right of the appropriate file, then upload them into RETIRE's script converter website: https://app.jorikdevreese.com/src/index.html
 
 Click the script you want to activate to get the dot artist area to update. For the Instant Text scripts, save and reset before activating to ensure they work correctly.
 
