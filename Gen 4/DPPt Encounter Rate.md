@@ -64,13 +64,13 @@ Before calculating the second ESR, the game checks the number of combined steps 
 ## Second Encounter Success Rate
 
 The second ESR is always set to 40, then modified accordingly:
-## Second ESR Modifiers, Long Grass and Bicycle
+### Second ESR Modifiers, Long Grass and Bicycle
 
 If your character is in long grass or if your character is riding a bicycle, the second ESR is increased by 30.
-## Second ESR Modifiers, Date
+### Second ESR Modifiers, Date
 
 If you are playing on one of the following dates, the second ESR is modified accordingly:
-### Diamond and Pearl
+#### Diamond and Pearl
 
 |Date|Modifier|
 |---|---|
@@ -78,7 +78,7 @@ If you are playing on one of the following dates, the second ESR is modified acc
 |August 13, 14, 16 \| November 3 \| December 25, 31|-5|
 |January 6, 11 \| February 3, 11, 12 \| March 3, 17, 25 \| April 1, 25, 29 \| May 3, 5, 8, 29 \| June 2, 21 \| July 4, 14, 24 \| August 15, 28 \| September 15, 20 \| October 3, 12 ,30 \| November 1, 11, 16 \| December 6, 8, 23, 24|+5|
 |January 12 \| July 7|+10|
-### Platinum
+#### Platinum
 
 |Date|Modifier|
 |---|---|

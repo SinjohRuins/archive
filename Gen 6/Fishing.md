@@ -3,7 +3,7 @@
 # Encounter Rate
 The base fishing encounter rate in Pokémon X, Y, Omega Ruby, and Alpha Sapphire is 49. This is true regardless of rod used or location. This rate is stored in the game's data as 50, but is programmatically reduced by one due to an error.
 
-Several modifiers can be applied to the base fishing encounter rate. If the console's time is currently set to Morning (6AM - 10:59AM) or Evening (6PM - 8:59PM), then 20 is added to the fishing encounter rate. If the fishing bob lands near a non-surfable tile, meaning a tile that you cannot surf on under any circumstances, then you receive an additional increase of 20 for each of these surrounding tiles. This can stack three times, one for each cardinal direction from the bob ignoring the direction that faces the player.
+Several modifiers can be applied to the base fishing encounter rate. If the console's time is currently set to Morning (6:00AM - 10:59AM) or Evening (6:00PM - 8:59PM), then 20 is added to the fishing encounter rate. If the fishing bob lands near a non-surfable tile, meaning a tile that you cannot surf on under any circumstances, then you receive an additional increase of 20 for each of these surrounding tiles. This can stack three times, one for each cardinal direction from the bob ignoring the direction that faces the player.
 
 Below are some examples for tiles that provide this bonus if your fishing bob is adjacent to them:
 

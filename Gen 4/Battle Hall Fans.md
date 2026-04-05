@@ -1,6 +1,6 @@
 <iframe style="max-width: 100%;" width="560" height="315" src="https://www.youtube.com/embed/-Rp9rY-61To?si=FrS47yiC17YzdXct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The Battle Hall in Pokémon Platinum, HeartGold, and SoulSilver has special fans that cheer you on if you meet certain criteria.
+The Battle Hall in Pokémon Platinum, HeartGold, and SoulSilver features special fans that cheer you on if you meet certain criteria.
 
 ## Celebrity Fans
 

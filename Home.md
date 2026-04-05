@@ -11,6 +11,7 @@
 [[Supporters]]
 ### Generation 4
 [[ACE Scripts]]
+[[Battle Frontier Shiny Pokémon]] (New)
 [[Battle Hall Fans]]
 [[Battle Tower Black Screen Glitch]]
 [[DPPt Encounter Rate]]
@@ -19,6 +20,7 @@
 [[DSi Time Travel]]
 [[Egg Hatching]]
 [[Japanese HGSS Slots]]
+[[Pokéwalker]]
 [[Time Travel Penalty]]
 [[U-Turn Glitches]]
 [[Unused Platinum Rival Battle]]

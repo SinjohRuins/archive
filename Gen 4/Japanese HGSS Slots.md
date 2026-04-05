@@ -13,7 +13,7 @@ If the game generates a 5 or 6, you can hit the jackpot. Even if the game decide
 The slot machine minigame features three modes: Normal, Happy, and Slump. Every game starts in Normal mode. The background color behind Smeargle (see the thumbnail above for an example) shows the mode you are currently in: Green indicates normal mode, red indicates Happy mode, and blue indicates Slump mode.
 ## Difficulty
 
-The game determines the difficulty of your session upon starting the slot machine minigame. These difficulties range from 0 to 3, with 0 being the hardest and 3 being the easiest. For any given interaction with a machine, the game assigns your session a difficulty of 0, 1, or 2. There is one exception: the machine played by the Gentleman in the Goldenrod Game Corner is always set to a difficulty level of 3. This machine is only accessible on Sunday mornings.
+Most slot machines have their difficulty determined randomly by the [group](https://bulbapedia.bulbagarden.net/wiki/Group) seed, meaning that each machine's difficulty changes upon day rollover or making a new group. These difficulties range from 0 to 2, with 0 being the hardest and 2 being the easiest. There is one exception: the machine played by the Gentleman in the Goldenrod Game Corner is always set to a difficulty level of 3, the easiest setting. This machine is only accessible on Sunday mornings.
 
 Below are the odds of getting a specific difficulty on the standard slot machines:
 
