@@ -8,6 +8,7 @@
 [Sinjoh Ruins Archive](https://github.com/SinjohRuins/archive)
 ## Articles
 [[About]]
+[[Recommended Resources]]
 [[Supporters]]
 ### Generation 4
 [[ACE Scripts]]
